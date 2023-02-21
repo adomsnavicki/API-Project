@@ -1,0 +1,30 @@
+.active {
+  color: green;
+}
+.search-form {
+  display: flex;
+  justify-content: center;
+}
+.search-form input {
+  border-radius: 5px;
+  padding: 5px;
+}
+.nav-navigation {
+  display: flex;
+  justify-content: center;
+  background-color: blanchedalmond;
+  height: 100px;
+  align-items: center;
+}
+.main-menu {
+  list-style-type: none;
+  display: flex;
+  gap: 80px;
+}
+.menu-item a {
+  text-decoration: none;
+}
+.album-photo-wrapp {
+  display: flex;
+  flex-wrap: wrap;
+}
